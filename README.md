@@ -179,4 +179,4 @@ benchmark.py   # Keyword validation via ollama.chat reading QuantCheck.prompt
 
 ## License
 
-MIT (or your preferred license).
+MIT.
